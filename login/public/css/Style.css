@@ -1,0 +1,55 @@
+body {
+  background-color: #3c3c3c;
+}
+.panel-default {
+background-color: #3c3c3c;
+border: none;
+}
+.panel-default .panel-heading{
+  text-align: center;
+  background-color: #3c3c3c;
+  border: none;
+
+}
+.panel-default .panel-heading h1{
+    color: orange;
+}
+
+.panel-default .panel-heading p{
+    color: white;
+    text-align: center;
+}
+.form-control   {
+  background-color: #848484;
+  border-color: orange;
+}
+.form-group{
+  padding: 0;
+	margin-top: 0;
+}
+.btn-primary{
+background-color: back;
+color: white
+border-color: white  }
+.password {
+  margin-left: center;
+  margin-right: auto;
+}
+.panel-body{
+  width: cover;
+  padding: 0;
+
+}
+label{
+  color: white;
+}
+title{
+  text-align: center;
+  background-color: #3c3c3c;
+}
+.panel-default .panel-heading {
+    color: orange;
+}
+.panel-body{
+  color: white;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="yes"?>
+<Configuracion xmlns="http://tempuri.org/Configuracion.xsd">
+  <Config>
+    <Server>192.168.1.219</Server>
+    <Database>SIF2011</Database>
+    <UID>SA_SIF</UID>
+    <PWD>51F</PWD>
+    <!--<Server>localhost</Server>
+    <Database>bdinteg</Database>
+    <UID>SA</UID>
+    <PWD>a123456*</PWD>-->    
+    <Cuenta />
+    <Clave_Ofi>0002</Clave_Ofi>
+    <Nombre_Ofi>REFORMA</Nombre_Ofi>
+    <Estacion>101</Estacion>
+    <WSComunication>HTTP://200.66.96.120/WSSIFifxtest/SERVICE</WSComunication>
+    <!--<WSComunication>HTTP://192.168.1.219/WSSIFifxtest/SERVICE</WSComunication>-->
+    <!--<WSComunication>HTTP://localhost/wsPisaOfi/SERVICE</WSComunication>-->
+    <WSConnection />
+    <WSDatabase />
+    <MasterKey>0sElH7/Amp3uBbD66QHlIg==</MasterKey>
+    <LoginType>P</LoginType>
+    <Idioma>espanol</Idioma>
+    <postgres>Server=localhost;Port=5432;Database=Ofi_migraSql;User Id=postgres;Password=postgres;</postgres>
+  </Config>
+</Configuracion>
